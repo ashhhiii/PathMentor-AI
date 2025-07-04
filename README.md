@@ -1,1 +1,1 @@
-# SkillSnapAI
+PathMentor AI
